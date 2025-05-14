@@ -26,7 +26,7 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  color: #d2c631;
+  color: #3171d2;
   border-bottom: dashed 0.1em #d2c631;
 }
 
@@ -48,7 +48,7 @@ ul {
 }
 li:before {
   content: "★";
-  color: #1749bdcc;
+  color: #eb962ccc;
 }
 
 /* --------------------
