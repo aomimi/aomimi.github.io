@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #1749bdcc;
+  color: #1749bdcc;
 }
 
 * {
@@ -26,8 +26,8 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  color: #d2c631cf;
-  border-bottom: dashed 0.1em #d2c631cf;
+  color: #d2c631;
+  border-bottom: dashed 0.1em #d2c631;
 }
 
 /* --------------------
