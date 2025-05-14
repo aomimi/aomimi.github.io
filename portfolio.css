@@ -26,8 +26,8 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  color: var(#d2c631cf);
-  border-bottom: dashed 0.1em var(#d2c631cf);
+  color: #d2c631cf;
+  border-bottom: dashed 0.1em #d2c631cf;
 }
 
 /* --------------------
@@ -48,7 +48,7 @@ ul {
 }
 li:before {
   content: "★";
-  color: var(--theme-color);
+  color: #1749bdcc;
 }
 
 /* --------------------
