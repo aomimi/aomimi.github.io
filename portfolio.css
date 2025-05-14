@@ -35,7 +35,7 @@ h1, h2, h3 {
 -------------------- */
 
 a {
-  color: var(--theme-color);
+  color: #1749bdcc;
   text-decoration: none;
 }
 
@@ -68,7 +68,7 @@ tr:nth-child(2n) {
   background-color: #f9f9f9;
 }
 th {
-  background: var(--theme-color);
+  background:  color: #1749bdcc;
   color: #fff;
 }
 th, td {
