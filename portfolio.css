@@ -20,9 +20,7 @@ body {
   padding: 30px;
   color: #333;
   background-image: url('AsteriSquirrel.png');
-　background-size: 100px !important;
-}
-
+  background-size: 100px;
 }
 
 /* --------------------
